@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://homestylemeals.com/sitemap.xml
+https://homestylemeals.onrender.com/sitemap.xml
